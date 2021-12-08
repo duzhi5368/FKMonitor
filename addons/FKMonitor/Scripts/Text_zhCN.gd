@@ -1,0 +1,37 @@
+# Created by Freeknight
+# 2021/12/02
+# 说明：
+#-------------------------------------------------
+const TextDict = {
+	"FPS": "FPS",
+	"Process": "逻辑帧耗时",
+	"PhysProcess": "物理帧耗时",
+	"StaMemory": "静态内存",
+	"DynMemory": "动态内存",
+	"MaxStaMemory": "最大可用静态内存",
+	"MaxDynMemory": "最大可用动态内存",
+	"MaxMessageBuf": "最大消息缓冲区内存",
+	"Objects": "实例化对象个数",
+	"Resources": "使用的资源数量",
+	"Nodes": "实例化节点个数",
+	"OrpNodes": "孤节点个数",
+	"DrawnObjs": "每帧绘制3D对象个数",
+	"DrawnVers": "每帧绘制3D顶点个数",
+	"ChangedMaterials": "3D每帧材质变化",
+	"ChangedShaders": "3D每帧shader变化",
+	"ChangedSurface": "3D每帧渲染面变化",
+	"3DDrawCalls": "3D Draw Call次数",
+	"2DItems": "每帧2D绘制项目数",
+	"2DDrawCalls": "2D Draw Call次数",
+	"VidMemory": "视频内存总量",
+	"TexMemory": "纹理内存总量",
+	"VerMemory": "顶点内存总量",
+	"MaxVidMemory": "Max Video Memory",
+	"2DActiveObjs": "2D物理节点数量",
+	"2DColPairs": "2D碰撞体数量",
+	"2DIslands": "2D物理岛屿数量",
+	"3DActiveObjs": "3D物理节点数量",
+	"3DColPairs": "3D碰撞提数量",
+	"3DIslands": "3D物理岛屿数量",
+	"AudioLatency": "音频输出延迟",
+}

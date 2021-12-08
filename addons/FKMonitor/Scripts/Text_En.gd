@@ -1,0 +1,37 @@
+# Created by Freeknight
+# 2021/12/02
+# 说明：
+#-------------------------------------------------
+const TextDict = {
+	"FPS": "FPS",
+	"Process": "Process",
+	"PhysProcess": "Physics Process",
+	"StaMemory": "Static Memory",
+	"DynMemory": "Dynamic Memory",
+	"MaxStaMemory": "Max Static Memory",
+	"MaxDynMemory": "Max Dynamic Memory",
+	"MaxMessageBuf": "Max Message Buffer",
+	"Objects": "Objects",
+	"Resources": "Resources",
+	"Nodes": "Nodes",
+	"OrpNodes": "Orphan Nodes",
+	"DrawnObjs": "Objects Drawn",
+	"DrawnVers": "Vertices Drawn",
+	"ChangedMaterials": "Material Changes",
+	"ChangedShaders": "Shader Changes",
+	"ChangedSurface": "Surface Changes",
+	"3DDrawCalls": "3D Draw Calls",
+	"2DItems": "2D Items",
+	"2DDrawCalls": "2D Draw Calls",
+	"VidMemory": "Video Memory",
+	"TexMemory": "Texture Memory",
+	"VerMemory": "Vertex Memory",
+	"MaxVidMemory": "Max Video Memory",
+	"2DActiveObjs": "2D Active Objects",
+	"2DColPairs": "2D Collision Pairs",
+	"2DIslands": "2D Islands",
+	"3DActiveObjs": "3D Active Objects",
+	"3DColPairs": "3D Collision Pairs",
+	"3DIslands": "3D Islands",
+	"AudioLatency": "Audio Latency",
+}
