@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="Demo For FKMonitor"
+config/name="【游戏】状态属性查看器"
 run/main_scene="res://Main.tscn"
 boot_splash/image="res://addons/FKMonitor/Assets/logo.png"
 boot_splash/fullsize=false
